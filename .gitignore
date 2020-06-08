@@ -143,3 +143,4 @@ cython_debug/
 # custom
 .flaskenv
 logs/
+.idea/
